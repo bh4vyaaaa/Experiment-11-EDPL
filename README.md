@@ -116,6 +116,6 @@ This includes:
 • Quality Control: Classifying defects into categories.
 • Survey Analysis: Analyzing responses collected from questionnaires.
 
-###Conclusion
+### Conclusion
 
 In this experiment, categorical data analysis was performed using Python. Different techniques were used to examine category distributions, perform frequency analysis, and visualize categorical variables. The experiment demonstrated how Python tools simplify the analysis and interpretation of qualitative data, making it easier to derive meaningful insights from categorical datasets.
