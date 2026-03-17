@@ -1,15 +1,15 @@
-###Experiment – 11
+### Experiment – 11
 Bhavya Pandya
 25070123139
 E&TC A1
 
-Categorical Data Analysis using Python
+### Categorical Data Analysis using Python
 
-Aim
+### Aim
 
 To analyze and interpret categorical data using Python and understand techniques for summarizing, visualizing, and drawing insights from categorical variables.
 
-Objectives
+### Objectives
 
 • To understand the concept of categorical data and its types.
 • To learn how to load datasets containing categorical variables using Python libraries.
@@ -17,13 +17,13 @@ Objectives
 • To visualize categorical data using graphs and charts.
 • To apply basic statistical techniques for categorical data interpretation.
 
-Theory on Categorical Data Analysis
+### Theory on Categorical Data Analysis
 
 Categorical data refers to data that can be divided into specific groups or categories rather than measured numerically. These categories represent qualitative attributes such as gender, color, department, or product type.
 
 In Python, categorical data analysis is commonly performed using libraries like Pandas, NumPy, Matplotlib, and Seaborn. These tools help in organizing data, calculating category frequencies, and creating visual representations.
 
-Categorical data analysis helps identify patterns, relationships, and distributions among categories within a dataset.
+### Categorical data analysis helps identify patterns, relationships, and distributions among categories within a dataset.
 
 1. Types of Categorical Data
 Nominal Data
@@ -74,7 +74,7 @@ Used in Seaborn to display the count of observations in each category.
 
 These visualizations help quickly identify dominant categories and trends.
 
-Data Handling and Processing
+### Data Handling and Processing
 1. Loading the Dataset
 
 Datasets containing categorical variables are loaded using Pandas.
@@ -94,7 +94,7 @@ Basic inspection techniques include:
 • Viewing unique category values
 • Counting category occurrences
 
-###Functions commonly used:
+### Functions commonly used:
 
 • unique() – Shows distinct categories
 • value_counts() – Counts category frequency
@@ -109,7 +109,7 @@ This includes:
 • Standardizing category names
 • Converting text values into categorical data types.
 
-###Applications in Engineering
+### Applications in Engineering
 
 • Market Research: Understanding customer preferences based on categories.
 • Product Classification: Grouping products by type or category.
